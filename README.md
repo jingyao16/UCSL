@@ -1,6 +1,6 @@
 # UCSL
 
-Code for the TGRS paper "UCSL: Towards Unsupervised Common Subspace Learning for Cross-Modal Image Classification".
+Code for the TGRS paper [UCSL: Toward Unsupervised Common Subspace Learning for Cross-Modal Image Classification](https://ieeexplore.ieee.org/abstract/document/10144390).
 
 An unsupervised common subspace feature learning method for cross-modal remote sensing image classification.
 

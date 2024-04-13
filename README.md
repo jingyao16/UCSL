@@ -1,6 +1,6 @@
 # UCSL
 
-![alt text](./Workflow_UCSL.PNG)
+![alt text](./Workflow_UCSL.png)
 
 Code for the TGRS paper [UCSL: Toward Unsupervised Common Subspace Learning for Cross-Modal Image Classification](https://ieeexplore.ieee.org/abstract/document/10144390).
 
